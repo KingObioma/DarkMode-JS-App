@@ -1,15 +1,41 @@
-DarkMode-JS-App
+## Dark Mode
 
-DarkMode-JS-App is a lightweight JavaScript project that lets users switch between dark and light themes on any website. It features clean UI logic, fast DOM updates, and persistent theme state using localStorage. Perfect for modern frontend projects and learning practical JS DOM manipulation.
+#### HTML Structure
 
-Features
+- main tags
+  - nav
+    - div.nav-center
+      - span 'overreacted'
+      - button.btn 'toggle'
+  - section.articles
+    - article.post
+      - h2 'post title'
+      - div.post-info
+        - span 'date'
+        - span 'read time'
+      - p 'content'
 
-Toggle between dark and light modes instantly
+#### Toggle - JS
 
-Remember user preference across sessions with localStorage
+- select button
+- add click event listener
 
-Minimal, responsive, and clean UI design
+#### Toggle - CSS
 
-No dependencies — pure JavaScript
+- create .dark-theme class
 
-Easy to integrate into existing projects
+#### Toggle - JS
+
+- select root element (html), toggle .dark-theme
+
+#### Import Data
+
+#### Display Articles
+
+- select articles
+- iterate over, return article.post for each article
+
+#### Format Date
+
+- import moment.js
+- format date
