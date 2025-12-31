@@ -57,6 +57,7 @@ Navbar
   transition: all 0.3s linear;
   font-weight: bold;
   letter-spacing: 2px;
+  letter-spacing: 2px;
   cursor: pointer;
 }
 
