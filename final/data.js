@@ -27,4 +27,11 @@ const articles = [
     length: 5,
     snippet: `Selvage street art hammock affogato VHS. Mustache shaman literally wayfarers schlitz. Direct trade four loko narwhal VHS pop-up, chartreuse trust fund typewriter street art swag thundercats art party.`,
   },
+    {
+    id: 5,
+    title: 'my decade in review',
+    date: new Date(2018, 7, 11),
+    length: 5,
+    snippet: `Direct trade shabby chic four dollar toast, tilde actually try-hard bicycle rights aesthetic forage. Meditation keytar asymmetrical tacos artisan truffaut. Pabst jean shorts roof party scenester.`,
+  },
 ];
