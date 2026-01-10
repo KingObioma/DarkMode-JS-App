@@ -81,6 +81,11 @@ Navbar
   font-style: italic;
   color: var(--clr-grey);
 }
+.post-info-config {
+  margin-bottom: 0.75rem;
+  font-style: italic;
+  color: var(--clr-grey);
+}
 .post-info span {
   margin-right: 0.5rem;
 }
