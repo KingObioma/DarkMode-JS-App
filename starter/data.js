@@ -9,7 +9,6 @@ const articles = [
   {
     id: 2,
     title: 'goodby, clean code',
-    file: '/app.py',
     date: new Date(2019, 10, 22),
     length: 5,
     snippet: `Biodiesel artisan seitan plaid sriracha copper mug venmo shabby chic. Kickstarter raclette kombucha, yr post-ironic jianbing try-hard flexitarian vaporware normcore.`,
